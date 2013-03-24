@@ -1,0 +1,7 @@
+Welcome To the Medieval Adventure project, led by Jared Black and Julian Steinberg! The goal of this project is to create an open-source game that continually is added on to as the storyline gets more complex. We need help -- if you're good at modeling, scripting, terrain editing, rigging, animating, or anything of that sort, then you're hired! We need as much help as we can get on this project, and our goal will be explained in the "goal.txt" file on the "docs" branch of the master branch.
+
+
+Thank you for joining us, we're excited to have you on the team!
+
+Thanks,
+Jared

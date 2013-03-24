@@ -1,0 +1,9 @@
+Goals for the Medieval Adventure project:
+
+We want to create a medieval style game for the enjoyment of players. The storyline will be maintained and edited by Jared and Julian, and the documents pertaining to the storyline will be in the "docs" branch of the master branch. The style of the game is supposed to be role-playing with elements from other famous RPG worlds. We will be making references to other games within the game. If you are not familiar with this type of game, you should get familiar with it before making contributions to the project.
+
+This document is subject to be changed, thank you for understanding.
+
+
+Thanks,
+Jared

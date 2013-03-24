@@ -1,0 +1,10 @@
+Software used:
+
+Pixelmator (image creation, editing) -- $30, Mac only
+Filter Forge (bump maps and tileable artwork) -- $74-399, Mac, Windows
+Unity3D (game engine) -- Free, Mac, Windows
+GIMP (image creation, editing) Free, Mac, Windows, Linux
+Blender (modeling, rigging) Free, Mac, Windows, Linux
+Maya (modeling, rigging) $3,675 (or free if student), Mac, Windows, Linux
+
+
